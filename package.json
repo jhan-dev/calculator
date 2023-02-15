@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator app",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhan-dev/calculator.git"
+  },
+  "author": "jhan-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhan-dev/calculator/issues"
+  },
+  "homepage": "https://github.com/jhan-dev/calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
