@@ -1,3 +1,5 @@
 # calculator
 
-Calculator app running express.js!
+BMI Calculator running express.js!
+
+bodyParser installed with $npm install body-parser
